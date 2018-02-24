@@ -1,4 +1,3 @@
-# BitcoinJ wallet template
 
 This application is a simple desktop Bitcoin wallet that has the following features:
 
@@ -20,8 +19,9 @@ development of real wallets. A great use case is to build contract based apps. I
 * BitSquare, a decentralised Bitcoin exchange
 * ... and more
 
-# Screenshots
+# How to use with Bitcoinrwj
+* Build [bitcoinrwj](https://github.com/spl0i7/bitcoinrwj) core jars
+* Assuming you're using Intellij Idea, Open this project.
+* Right Click Project -> Open Module Settings -> Libraries -> Click "+" -> Add Newly built bitcoinrwj core jars
+* Build the project
 
-![screenshot1](/screenshots/synced.png)
-
-![screenshot1](/screenshots/qrcode.png)
